@@ -4,4 +4,4 @@
 
 # One Word From Grandma
 
-One-word entry for the make.fun bounty "One Word From Grandma". The program `main.py` writes exactly one word to `/output/entry.txt` — "Listening", the single word a grandma would text about AI: warm, a little baffled, and suspicious in the way only a grandma who just learned her phone hears everything can be.
+One-word entry for the make.fun bounty "One Word From Grandma". The program `main.py` writes exactly one word to `/output/entry.txt` — "Blessings", the single word a grandma would text about AI: how she signs off every message, what she says when something good happens, and what she offers a stranger who helped her — warm, generous, and unmistakably grandma. (Round 1 entry was "Listening".)
